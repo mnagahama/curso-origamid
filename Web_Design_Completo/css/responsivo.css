@@ -23,6 +23,8 @@
 
 /*Smartphone style*/	
 @media only screen and (max-width: 787px) {
+
+/*Header*/
 .header {
 	position: relative;
 	padding-bottom: 0px;
@@ -48,7 +50,10 @@
 
 .header_menu ul li a:hover {
 	border: 4px solid #fff;
+}
 
+.header_menu ul li a.menu_ativo {
+  border-color: #fff;
 }
 
 /*Introducao*/
@@ -63,6 +68,9 @@
   background-size: cover;
 }
 
+.introducao-interna {
+ 	margin-top: 0px;
+}
 /*Call*/
 .call {
 	padding-top: 10px;
@@ -72,4 +80,17 @@
 .qualidade:after {
 	display: none;
 }
+
+/*Sobre*/
+.missao_sobre  p{
+	font-size: 14px;
+	line-height: 20px;
+	padding-right: 60px;
+}
+
+.missao_sobre  ul li{
+	font-size: 14px;
+	line-height: 25px;
+}
+
 }
