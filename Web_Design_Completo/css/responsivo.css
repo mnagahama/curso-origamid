@@ -114,7 +114,7 @@
 	line-height: 25px;
 }
 
-
+/*Produto*/
 .produto_item h2{
 	top: -100px;
 	margin-bottom: -68px;
@@ -143,4 +143,9 @@
 	padding-right: 0;
 }
 
+/*Contato*/
+.contato_form {
+	padding-right: 0px;
+	margin-bottom: 40px;
+}
 }
