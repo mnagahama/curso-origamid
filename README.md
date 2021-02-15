@@ -4,8 +4,8 @@ Repositório sobre os estudos do curso origamid
     <img alt="Origamid" src="banner.png" width="700px" />
 </h1>
 
-<p>:white_square_button: Web Design Completo</p>
-<p>:white_large_square: CSS Avançado Posicionamento</p>
+<p>:white_check_mark: Web Design Completo</p>
+<p>:white_square_button: CSS Avançado Posicionamento</p>
 <p>:white_large_square: CSS Grid Layout</p>
 <p>:white_large_square: CSS Flexbox</p>
 <p>:white_large_square: CSS com SASS</p>
