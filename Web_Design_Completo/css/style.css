@@ -1134,3 +1134,9 @@ img {
     margin-bottom: 40px;
   }
 }
+
+.nao-aparece {
+  visibility: hidden;
+  position: absolute;
+  height: 0px;
+}
