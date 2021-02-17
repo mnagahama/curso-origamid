@@ -5,7 +5,7 @@ Repositório sobre os estudos do curso origamid
 </h1>
 
 <p>:heavy_check_mark: Web Design Completo</p>
-<p>:construction: CSS Avançado Posicionamento</p> 
+<p>:construction: CSS Avançado Posicionamento :construction:</p> 
 <p>:white_check_mark: CSS Grid Layout</p>
 <p>:white_check_mark: CSS Flexbox</p>
 <p>:white_check_mark: CSS com SASS</p>
