@@ -7,12 +7,12 @@ Repositório sobre os estudos do curso origamid
 <p>Legenda: :heavy_check_mark: concluido, :white_large_square: falta concluir, :construction: em andamento, :stop_sign: em pausa</p>
 
 <p>:heavy_check_mark: Web Design Completo</p>
-<p>:stop_sign: CSS Avançado Posicionamento :stop_sign:</p> 
+<p>:construction: CSS Avançado Posicionamento :construction:</p> 
 <p>:white_large_square: CSS Grid Layout</p>
 <p>:white_large_square: CSS Flexbox</p>
 <p>:white_large_square: CSS com SASS</p>
 <p>:white_large_square: JavaScript e jQuery </p>
-<p>:construction: JavaScript Completo ES6 :construction:</p>
+<p>:stop_sign: JavaScript Completo ES6 :stop_sign:</p>
 <p>:white_large_square: React Completo</p>
 <p>:white_large_square: Redux com React</p>
 <p>:white_large_square: Vue.js Completo</p>
