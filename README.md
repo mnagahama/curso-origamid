@@ -12,7 +12,7 @@ Repositório sobre os estudos do curso origamid
 <p>:white_large_square: CSS Flexbox</p>
 <p>:white_large_square: CSS com SASS</p>
 <p>:white_large_square: JavaScript e jQuery </p>
-<p>:stop_sign: JavaScript Completo ES6 :stop_sign:</p>
+<p>:construction: JavaScript Completo ES6 :construction:</p>
 <p>:white_large_square: React Completo</p>
 <p>:white_large_square: Redux com React</p>
 <p>:white_large_square: Vue.js Completo</p>
