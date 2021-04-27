@@ -25,7 +25,3 @@ Repositório sobre os estudos do curso origamid
 <p>:white_large_square: UX Design Heurísticas</p>
 <p>:white_large_square: Tipografia Avançada</p>
 <p>:white_large_square: Adobe XD</p>
-
-
-
- 
