@@ -9,7 +9,7 @@ Repositório sobre os estudos do curso origamid
 <p>✔️ Web Design Completo <a target="_blank" href="https://www.origamid.com/certificate/6d1a7bde/">🏆</a></p> 
 <p>✔️ CSS Flexbox <a target="_blank" href="https://www.origamid.com/certificate/f21f6a84/">🏆</a> <a target="_blank" href="https://github.com/mnagahama/flexblog"> 📂</a> </p>
 <p>⬜ CSS Grid Layout</p>
-<p>🚧 JavaScript Completo ES6 🚧</p>
+<p>🛑 JavaScript Completo ES6 🛑</p>
 <p>🛑 CSS Avançado Posicionamento 🛑</p> 
 <p>⬜ CSS com SASS</p>
 <p>⬜ JavaScript e jQuery </p>
