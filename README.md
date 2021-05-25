@@ -4,24 +4,24 @@ Repositório sobre os estudos do curso origamid
     <img alt="Origamid" src="banner.png" width="700px" />
 </h1>
 
-<p>Legenda: :heavy_check_mark: concluido, :white_large_square: falta concluir, :construction: em andamento, :stop_sign: em pausa</p>
+<p>Legenda: ✔️ concluido, ⬜ falta concluir, 🚧 em andamento, 🛑 em pausa, 🏆 certificado,  📂 projeto </p>
 
-<p>:heavy_check_mark: Web Design Completo</p>
-<p>:construction: CSS Avançado Posicionamento :construction:</p> 
-<p>:white_large_square: CSS Grid Layout</p>
-<p>:white_large_square: CSS Flexbox</p>
-<p>:white_large_square: CSS com SASS</p>
-<p>:white_large_square: JavaScript e jQuery </p>
-<p>:construction: JavaScript Completo ES6 :construction:</p>
-<p>:white_large_square: React Completo</p>
-<p>:white_large_square: Redux com React</p>
-<p>:white_large_square: Vue.js Completo</p>
-<p>:white_large_square: WordPress Como CMS</p>
-<p>:white_large_square: Wordpress REST API</p>
-<p>:white_large_square: WooCommerce Como CMS</p>
-<p>:white_large_square: Bootstrap 4</p>
-<p>:white_large_square: Automação Front End com NPM</p>
-<p>:white_large_square: UI Design Avançado</p>
-<p>:white_large_square: UX Design Heurísticas</p>
-<p>:white_large_square: Tipografia Avançada</p>
-<p>:white_large_square: Adobe XD</p>
+<p>✔️ Web Design Completo <a target="_blank" href="https://www.origamid.com/certificate/6d1a7bde/">🏆</a></p> 
+<p>✔️ CSS Flexbox <a target="_blank" href="https://www.origamid.com/certificate/f21f6a84/">🏆</a> <a target="_blank" href="https://github.com/mnagahama/flexblog"> 📂</a> </p>
+<p>⬜ CSS Grid Layout</p>
+<p>🚧 JavaScript Completo ES6 🚧</p>
+<p>🛑 CSS Avançado Posicionamento 🛑</p> 
+<p>⬜ CSS com SASS</p>
+<p>⬜ JavaScript e jQuery </p>
+<p>⬜ React Completo</p>
+<p>⬜ Redux com React</p>
+<p>⬜ Vue.js Completo</p>
+<p>⬜ WordPress Como CMS</p>
+<p>⬜ Wordpress REST API</p>
+<p>⬜ WooCommerce Como CMS</p>
+<p>⬜ Bootstrap 4</p>
+<p>⬜ Automação Front End com NPM</p>
+<p>⬜ UI Design Avançado</p>
+<p>⬜ UX Design Heurísticas</p>
+<p>⬜ Tipografia Avançada</p>
+<p>⬜ Adobe XD</p>
