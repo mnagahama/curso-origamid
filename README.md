@@ -6,7 +6,7 @@ Repositório sobre os estudos do curso origamid
 
 <p>Legenda: ✔️ concluido, ⬜ falta concluir, 🚧 em andamento, 🛑 em pausa, 🏆 certificado,  📂 projeto </p>
  
-<p>⬜ 🚧 HTML e CSS para Iniciantes 🚧</p>
+<p>🚧 HTML e CSS para Iniciantes 🚧</p>
 <p>⬜ UI Design para Iniciantes</p>
 <p>✔️ CSS Flexbox <a target="_blank" href="https://www.origamid.com/certificate/f21f6a84/">🏆</a> <a target="_blank" href="https://github.com/mnagahama/flexblog"> 📂</a> </p>
 <p>⬜ CSS Grid Layout</p>
